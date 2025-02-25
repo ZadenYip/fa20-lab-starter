@@ -1,7 +1,7 @@
 1. clean
-2. .c.o
+2. all
 3. gcc
 4. C99
 5. $(FOO)
 6. Unix
-7. 32
+7. 31
